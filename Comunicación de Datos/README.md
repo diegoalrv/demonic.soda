@@ -34,13 +34,15 @@ virtualenv env
 ```
 4. Activa el ambiente virtual con el siguiente comando:
 ```
-.\env\Scripts\Activate.ps1
+.\env\Scripts\Activate
 ```
 
 Una vez que el ambiente virtual está activado, instala los paquetes necesarios utilizando el archivo requirements.txt del repositorio. Para hacer esto, ejecuta el siguiente comando en la terminal:
 ```
 pip install -r requirements.txt
 ```
+
+En caso de no funcionar algún comando en la PowerShell anteponer ```python -m ...```.
 
 ## Levantar API
 
