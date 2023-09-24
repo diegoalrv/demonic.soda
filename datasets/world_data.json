@@ -1,0 +1,297 @@
+[
+  {
+    "Country": "China",
+    "Year": 2022,
+    "Population(Millions)": 1444,
+    "Area(km^2)": 9706961,
+    "PerCapitaIncome(MillionUSD)": 10.09
+  },
+  {
+    "Country": "India",
+    "Year": 2022,
+    "Population(Millions)": 1393,
+    "Area(km^2)": 3287263,
+    "PerCapitaIncome(MillionUSD)": 1.94
+  },
+  {
+    "Country": "United States",
+    "Year": 2022,
+    "Population(Millions)": 331,
+    "Area(km^2)": 9372610,
+    "PerCapitaIncome(MillionUSD)": 63.42
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2022,
+    "Population(Millions)": 213,
+    "Area(km^2)": 8515767,
+    "PerCapitaIncome(MillionUSD)": 9.13
+  },
+  {
+    "Country": "Russia",
+    "Year": 2022,
+    "Population(Millions)": 145,
+    "Area(km^2)": 17098246,
+    "PerCapitaIncome(MillionUSD)": 9.86
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2022,
+    "Population(Millions)": 225,
+    "Area(km^2)": 881912,
+    "PerCapitaIncome(MillionUSD)": 1.29
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2022,
+    "Population(Millions)": 219,
+    "Area(km^2)": 923768,
+    "PerCapitaIncome(MillionUSD)": 0.77
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2022,
+    "Population(Millions)": 167,
+    "Area(km^2)": 147570,
+    "PerCapitaIncome(MillionUSD)": 0.86
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2022,
+    "Population(Millions)": 129,
+    "Area(km^2)": 1967138,
+    "PerCapitaIncome(MillionUSD)": 9.48
+  },
+  {
+    "Country": "Japan",
+    "Year": 2022,
+    "Population(Millions)": 125,
+    "Area(km^2)": 377975,
+    "PerCapitaIncome(MillionUSD)": 42.67
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2022,
+    "Population(Millions)": 128,
+    "Area(km^2)": 1104300,
+    "PerCapitaIncome(MillionUSD)": 0.08
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2022,
+    "Population(Millions)": 115,
+    "Area(km^2)": 342353,
+    "PerCapitaIncome(MillionUSD)": 3.03
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2022,
+    "Population(Millions)": 105,
+    "Area(km^2)": 1002450,
+    "PerCapitaIncome(MillionUSD)": 3.60
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2022,
+    "Population(Millions)": 98,
+    "Area(km^2)": 331212,
+    "PerCapitaIncome(MillionUSD)": 2.52
+  },
+  {
+    "Country": "DR Congo",
+    "Year": 2022,
+    "Population(Millions)": 101,
+    "Area(km^2)": 2344858,
+    "PerCapitaIncome(MillionUSD)": 0.48
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2022,
+    "Population(Millions)": 85,
+    "Area(km^2)": 783562,
+    "PerCapitaIncome(MillionUSD)": 9.26
+  },
+  {
+    "Country": "Iran",
+    "Year": 2022,
+    "Population(Millions)": 85,
+    "Area(km^2)": 1648195,
+    "PerCapitaIncome(MillionUSD)": 5.57
+  },
+  {
+    "Country": "Germany",
+    "Year": 2022,
+    "Population(Millions)": 83,
+    "Area(km^2)": 357022,
+    "PerCapitaIncome(MillionUSD)": 51.19
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2022,
+    "Population(Millions)": 71,
+    "Area(km^2)": 513120,
+    "PerCapitaIncome(MillionUSD)": 5.84
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2022,
+    "Population(Millions)": 68,
+    "Area(km^2)": 242495,
+    "PerCapitaIncome(MillionUSD)": 42.34
+  },
+  {
+    "Country": "France",
+    "Year": 2022,
+    "Population(Millions)": 65,
+    "Area(km^2)": 551695,
+    "PerCapitaIncome(MillionUSD)": 43.33
+  },
+  {
+    "Country": "Italy",
+    "Year": 2022,
+    "Population(Millions)": 60,
+    "Area(km^2)": 301340,
+    "PerCapitaIncome(MillionUSD)": 37.08
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2022,
+    "Population(Millions)": 69,
+    "Area(km^2)": 947303,
+    "PerCapitaIncome(MillionUSD)": 0.14
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2022,
+    "Population(Millions)": 60,
+    "Area(km^2)": 1221037,
+    "PerCapitaIncome(MillionUSD)": 6.15
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2022,
+    "Population(Millions)": 56,
+    "Area(km^2)": 676578,
+    "PerCapitaIncome(MillionUSD)": 0.71
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2022,
+    "Population(Millions)": 55,
+    "Area(km^2)": 580367,
+    "PerCapitaIncome(MillionUSD)": 0.92
+  },
+  {
+    "Country": "South Korea",
+    "Year": 2022,
+    "Population(Millions)": 52,
+    "Area(km^2)": 100210,
+    "PerCapitaIncome(MillionUSD)": 33.88
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2022,
+    "Population(Millions)": 52,
+    "Area(km^2)": 1141748,
+    "PerCapitaIncome(MillionUSD)": 6.45
+  },
+  {
+    "Country": "Spain",
+    "Year": 2022,
+    "Population(Millions)": 47,
+    "Area(km^2)": 505992,
+    "PerCapitaIncome(MillionUSD)": 31.70
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2022,
+    "Population(Millions)": 44,
+    "Area(km^2)": 603550,
+    "PerCapitaIncome(MillionUSD)": 2.67
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2022,
+    "Population(Millions)": 45,
+    "Area(km^2)": 241550,
+    "PerCapitaIncome(MillionUSD)": 0.65
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2022,
+    "Population(Millions)": 47,
+    "Area(km^2)": 2780400,
+    "PerCapitaIncome(MillionUSD)": 8.34
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2022,
+    "Population(Millions)": 44,
+    "Area(km^2)": 2381741,
+    "PerCapitaIncome(MillionUSD)": 1.47
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2022,
+    "Population(Millions)": 45,
+    "Area(km^2)": 1861484,
+    "PerCapitaIncome(MillionUSD)": 0.55
+  },
+  {
+    "Country": "Poland",
+    "Year": 2022,
+    "Population(Millions)": 38,
+    "Area(km^2)": 312696,
+    "PerCapitaIncome(MillionUSD)": 15.47
+  },
+  {
+    "Country": "Canada",
+    "Year": 2022,
+    "Population(Millions)": 38,
+    "Area(km^2)": 9984670,
+    "PerCapitaIncome(MillionUSD)": 46.98
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2022,
+    "Population(Millions)": 40,
+    "Area(km^2)": 437367,
+    "PerCapitaIncome(MillionUSD)": 5.34
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2022,
+    "Population(Millions)": 37,
+    "Area(km^2)": 446550,
+    "PerCapitaIncome(MillionUSD)": 3.03
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2022,
+    "Population(Millions)": 35,
+    "Area(km^2)": 448978,
+    "PerCapitaIncome(MillionUSD)": 1.78
+  },
+  {
+    "Country": "Peru",
+    "Year": 2022,
+    "Population(Millions)": 34,
+    "Area(km^2)": 1285216,
+    "PerCapitaIncome(MillionUSD)": 6.46
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2022,
+    "Population(Millions)": 33,
+    "Area(km^2)": 329847,
+    "PerCapitaIncome(MillionUSD)": 9.76
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2022,
+    "Population(Millions)": 32,
+    "Area(km^2)": 448978,
+    "PerCapitaIncome(MillionUSD)": 1.78
+  }
+]
+  
